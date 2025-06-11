@@ -1,3 +1,4 @@
+// C program to consturct pyramid with n rows displaying the row number 
 #include <stdio.h>
 
 int main() {
@@ -14,3 +15,6 @@ int main() {
     }
     return 0;
 }
+
+
+//Note: For displaying a '*' pyramid change the printf statement inside loop as " printf('*') "
