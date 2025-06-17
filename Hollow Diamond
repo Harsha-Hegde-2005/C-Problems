@@ -1,4 +1,4 @@
-// pattern to print a hollow diamond
+// pattern to print a hollow diamond 
 #include <stdio.h>
 
 int main() {
