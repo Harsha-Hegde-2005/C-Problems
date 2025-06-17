@@ -1,0 +1,33 @@
+// pattern to print a solid diamond
+#include <stdio.h>
+
+int main() {
+    int n; 
+    printf("Enter the number of rows: ");
+    scanf("%d",&n);
+    int i=1,reach=0;
+    while(i!=0)
+    {
+        for(int j=0;j<=2*n-1;j++)
+        {
+            if(j>=n-i+1 && j<=n+i-1)
+            {
+                printf("*");
+            }
+            else
+            printf(" ");
+        }
+        printf("\n");
+        if(reach==0)
+        {
+        i++;
+        if(i==n)
+        {
+            reach=1;
+        }
+        }
+        else
+        i--;
+    }
+    return 0;
+}
