@@ -1,5 +1,5 @@
 // pattern to print a solid diamond
-#include <stdio.h>
+#include <stdio.h> 
 
 int main() {
     int n; 
