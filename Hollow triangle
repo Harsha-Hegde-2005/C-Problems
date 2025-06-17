@@ -1,4 +1,4 @@
-// pattern to print a triangle shape
+// pattern to print a hollow triangle
 #include <stdio.h>
 
 int main() {
