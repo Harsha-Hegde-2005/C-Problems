@@ -1,5 +1,5 @@
 // pattern to print a hollow triangle
-#include <stdio.h>
+#include <stdio.h> 
 
 int main() {
     int n; 
