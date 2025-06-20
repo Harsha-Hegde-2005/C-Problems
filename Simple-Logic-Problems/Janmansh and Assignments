@@ -1,7 +1,7 @@
 // this problem is from CodeChef
 //Problem : https://www.codechef.com/practice/course/logical-problems/DIFF800/problems/JASSIGNMENTS
 //Solution by Harsha Hegde :
-
+ 
 #include <stdio.h>
 
 int main() {
