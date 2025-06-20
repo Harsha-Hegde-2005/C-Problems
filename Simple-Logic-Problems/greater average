@@ -3,7 +3,7 @@
 //Solution by Harsha Hegde :
 
  #include <stdio.h>
-
+ 
 int main() {
 	int n,a,b,c;
 	float avg=0;
