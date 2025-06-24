@@ -1,5 +1,8 @@
 # C-Problems 🧠💻
 
+This repo contains my C practice codes and problem-solving journey.
+All solutions are written from scratch with the intent to learn, reflect, and improve.
+
 A collection of C programming exercises and logic-based problems for practice and learning.  
 This repo is perfect for beginners looking to master the fundamentals of C through real coding tasks.
 
@@ -42,4 +45,5 @@ Feel free to fork and submit pull requests if you want to add your own practice 
 ⭐ Author
 Harsha Hegde
 GitHub Profile » https://github.com/Harsha-Hegde-2005
+
 
