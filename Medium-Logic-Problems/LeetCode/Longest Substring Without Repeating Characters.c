@@ -1,7 +1,7 @@
 // this problem is from LeetCode
 //Problem : https://leetcode.com/problems/longest-substring-without-repeating-characters/description/
 //Solution by Harsha Hegde : 
-
+ 
 int lengthOfLongestSubstring(char* s) {
     if (strlen(s) == 0) return 0;
     if (strlen(s) == 1) return 1;
