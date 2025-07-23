@@ -1,6 +1,6 @@
 // this problem is from CodeChef
 //Problem : https://www.codechef.com/practice/course/1-star-difficulty-problems/DIFF1200/problems/CHEFSTLT
-//Solution by Harsha Hegde : 
+//Solution by Harsha Hegde :  
 
 #include <stdio.h>
 #include <string.h>
