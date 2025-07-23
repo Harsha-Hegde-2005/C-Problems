@@ -1,6 +1,6 @@
 // this problem is from LeetCode
 //Problem : https://leetcode.com/problems/median-of-two-sorted-arrays/descripti
-//Solution by Harsha Hegde : 
+//Solution by Harsha Hegde :  
 
 double findMedianSortedArrays(int* nums1, int nums1Size, int* nums2, int nums2Size) {
     int k = 0, i = 0, j = 0;
